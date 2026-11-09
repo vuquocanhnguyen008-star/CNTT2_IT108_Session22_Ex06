@@ -37,10 +37,10 @@ Các bước:
 ## 4. Nếu vẫn không sửa được: tin nhắn nhờ giảng viên (Bug Reporting Framework)
 
 ```
-Chào thầy/cô, em là Nguyễn Vũ Quốc Anh (MSSV: ........).
-Em đang gặp lỗi khi push code lên GitHub, em xin nhờ thầy/cô hỗ trợ ạ.
+Chào thầy Sang, em là Nguyễn Vũ Quốc Anh (MSSV: N26DTCN004).
+Em đang gặp lỗi khi push code lên GitHub, em xin nhờ thầy hỗ trợ ạ.
 
-**Context:** Windows ..., Git version ... (kiểm tra bằng git --version).
+**Context:** Windows 11, Git version 2.56.0 (bản 64-bit).
 Em đang push bài tập lên GitHub, dự án nằm ở thư mục ...
 
 **Expected:** Lệnh git push chạy thành công và code lên GitHub.
