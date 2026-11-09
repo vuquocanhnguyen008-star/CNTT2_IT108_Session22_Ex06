@@ -30,9 +30,8 @@ Các bước:
 3. Dùng `cd` vào thư mục dự án.
 4. Chạy lại `git push` (hoặc `git fetch`) xem còn lỗi không.
 
-> *(Dán ảnh chụp màn hình quá trình làm ở đây. Theo hướng dẫn: khoanh vùng lỗi, che thông tin cá nhân như tên máy, email, đường dẫn có tên thật.)*
+> <img width="1480" height="756" alt="img_v3_02179_3b95de30-d09a-4641-aaef-0d5b12ec4aix" src="https://github.com/user-attachments/assets/28a9c4ec-ed87-40f6-83b4-a88ca05deb78" />
 
-![Ảnh minh họa](anh_bai6.png)
 
 ## 4. Nếu vẫn không sửa được: tin nhắn nhờ giảng viên (Bug Reporting Framework)
 
@@ -41,7 +40,7 @@ Chào thầy Sang, em là Nguyễn Vũ Quốc Anh (MSSV: N26DTCN004).
 Em đang gặp lỗi khi push code lên GitHub, em xin nhờ thầy hỗ trợ ạ.
 
 **Context:** Windows 11, Git version 2.56.0 (bản 64-bit).
-Em đang push bài tập lên GitHub, dự án nằm ở thư mục ...
+Em đang push bài tập lên GitHub, dự án nằm ở thư mục FECT_HEAD
 
 **Expected:** Lệnh git push chạy thành công và code lên GitHub.
 
